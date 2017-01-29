@@ -1,4 +1,4 @@
-<img src="https://cloud.githubusercontent.com/assets/16360374/22404044/0e10494c-e5dd-11e6-885d-57026f7bdd4a.png" height="70" Title="Heading"/>  
+<img src="https://cloud.githubusercontent.com/assets/16360374/22404140/a46933d4-e5df-11e6-9d13-00cb87228bff.png" height="70" Title="Heading"/>  
 ------------------------------------------------------------------------------  
 ####&nbsp;&nbsp;&nbsp;&nbsp; A collection of custom file-type icons for Atom
 <p align="right">
@@ -14,7 +14,7 @@
 
 <br>
     <p align="center">
-        <img src="https://cloud.githubusercontent.com/assets/16360374/22403831/088f335c-e5d8-11e6-8ef1-8b969989b517.png" width="750" title="Preview"/>
+        <img src="https://cloud.githubusercontent.com/assets/16360374/22404141/a479769a-e5df-11e6-9329-b65c934a9448.png" width="850" title="Preview"/>
     <p/>
 <br>
 
