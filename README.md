@@ -1,4 +1,4 @@
-<img src="https://cloud.githubusercontent.com/assets/16360374/22403933/9e25ea08-e5da-11e6-8670-c597ad060b7d.png" height="70" Title="Heading"/>  
+<img src="https://cloud.githubusercontent.com/assets/16360374/22404044/0e10494c-e5dd-11e6-885d-57026f7bdd4a.png" height="70" Title="Heading"/>  
 ------------------------------------------------------------------------------  
 ####&nbsp;&nbsp;&nbsp;&nbsp; A collection of custom file-type icons for Atom
 <p align="right">
