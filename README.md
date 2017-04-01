@@ -1,6 +1,6 @@
-<img src="https://cloud.githubusercontent.com/assets/16360374/22404140/a46933d4-e5df-11e6-9d13-00cb87228bff.png" height="70" Title="Heading"/>(https://github.com/JonSn0w/Atom-File-Icons)
+[<img src="https://cloud.githubusercontent.com/assets/16360374/22404140/a46933d4-e5df-11e6-9d13-00cb87228bff.png" height="70" Title="Heading"/>](https://github.com/JonSn0w/Atom-File-Icons)
 ------------------------------------------------------------------------------  
-####&nbsp;&nbsp;&nbsp;&nbsp; A collection of custom file-type icons for Atom  
+#### A collection of custom file-type icons for Atom  
 
 <p align="right">
     <a href="https://opensource.org/licenses/MIT">
