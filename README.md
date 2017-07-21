@@ -34,6 +34,7 @@ ______________________________________________________________________________
   * [C++](https://github.com/JonSn0w/Atom-FileType-Icons/blob/master/PNG/cpp.png)  
   * [C#](https://github.com/JonSn0w/Atom-FileType-Icons/blob/master/PNG/csharp.png)  
   * [CSS](https://github.com/JonSn0w/Atom-FileType-Icons/blob/master/PNG/css.png)  
+  *  [Go](https://github.com/JonSn0w/Atom-FileType-Icons/blob/master/PNG/go.png) 
   * [HTML](https://github.com/JonSn0w/Atom-FileType-Icons/blob/master/PNG/html.png)  
   * [Java](https://github.com/JonSn0w/Atom-FileType-Icons/blob/master/PNG/java.png)  
   * [JavaScript](https://github.com/JonSn0w/Atom-FileType-Icons/blob/master/PNG/js.png)  
@@ -42,7 +43,8 @@ ______________________________________________________________________________
   * [Lua](https://github.com/JonSn0w/Atom-FileType-Icons/blob/master/PNG/lua.png)  
   * [MarkDown](https://github.com/JonSn0w/Atom-FileType-Icons/blob/master/PNG/md.png)  
   * [Python](https://github.com/JonSn0w/Atom-FileType-Icons/blob/master/PNG/py.png)  
-  * [Ruby](https://github.com/JonSn0w/Atom-FileType-Icons/blob/master/PNG/ruby.png)  
+  * [Ruby](https://github.com/JonSn0w/Atom-FileType-Icons/blob/master/PNG/ruby.png)
+  * [SCSS](https://github.com/JonSn0w/Atom-FileType-Icons/blob/master/PNG/scss.png)  
   * [Text](https://github.com/JonSn0w/Atom-FileType-Icons/blob/master/PNG/txt.png)  
 
 <br>  
