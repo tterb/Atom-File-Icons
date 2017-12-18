@@ -22,9 +22,10 @@
 ## Description:  
 I have been using <img src="https://cloud.githubusercontent.com/assets/16360374/17991222/82596480-6af1-11e6-9c96-3e2996a8be5a.png" width="20"/> [**Atom**](https://atom.io) as my go-to editor for a little while now and even developed a few packages. Though, I enjoy many of Atom's "*hackable*" aspects, looking through the files of a large projects can be tedious and it can be difficult to discern different file-types. In response, I've created these icons to be tastefully unique, while also enabling users to navigate projects with ease.  
 I will be creating icons for more file-types in the future, so if you like these make sure to check back soon!  
-<br>  
-  ***Note:*** If you'd like to request an icon for a new file-type, make sure to submit your suggestions [**here**](https://github.com/JonSn0w/Atom-FileType-Icons/Issues).  
-  I'll do my best to fulfill any submitted icon requests, but also feel free to create/contribute your own using the provided [Illustrator file](https://github.com/JonSn0w/Atom-FileType-Icons/blob/master/AI/AtomFileIcons.ai).  
+  
+  
+***Note:*** If you'd like to request an icon for a new file-type, make sure to submit your suggestions [**here**](https://github.com/JonSn0w/Atom-FileType-Icons/Issues).  
+I'll do my best to fulfill any submitted icon requests, but also feel free to create/contribute your own using the provided [Illustrator file](https://github.com/JonSn0w/Atom-FileType-Icons/blob/master/AI/AtomFileIcons.ai).  
 <br>  
 
 _____________________  
@@ -51,5 +52,4 @@ _____________________
   * [SCSS](https://github.com/JonSn0w/Atom-FileType-Icons/blob/master/PNG/scss.png)  
   * [Text](https://github.com/JonSn0w/Atom-FileType-Icons/blob/master/PNG/txt.png)
   * [TypeScript](https://github.com/JonSn0w/Atom-FileType-Icons/blob/master/PNG/ts.png)  
-
-<br>  
+  
