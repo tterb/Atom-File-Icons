@@ -15,43 +15,41 @@
 
 <br>
   <p align="center">
-      <img src="https://cloud.githubusercontent.com/assets/16360374/22404141/a479769a-e5df-11e6-9329-b65c934a9448.png" width="850" title="Preview"/>
+      <img src="https://cloud.githubusercontent.com/assets/16360374/22404141/a479769a-e5df-11e6-9329-b65c934a9448.png" width="800" title="Preview"/>
   <p/>
 <br>
 
 ## Description:  
-I have been using <img src="https://cloud.githubusercontent.com/assets/16360374/17991222/82596480-6af1-11e6-9c96-3e2996a8be5a.png" width="20"/> **[Atom]** as my go-to editor for a little while now and even developed a few packages. Though, I enjoy many of Atom's "*hackable*" aspects, looking through the files of a large projects can be tedious and it can be difficult to discern different file-types. In response, I've created these icons to be tastefully unique, while also enabling users to navigate projects with ease.  
+I have been using <img src="https://cloud.githubusercontent.com/assets/16360374/17991222/82596480-6af1-11e6-9c96-3e2996a8be5a.png" width="20"/> [**Atom**](https://atom.io) as my go-to editor for a little while now and even developed a few packages. Though, I enjoy many of Atom's "*hackable*" aspects, looking through the files of a large projects can be tedious and it can be difficult to discern different file-types. In response, I've created these icons to be tastefully unique, while also enabling users to navigate projects with ease.  
 I will be creating icons for more file-types in the future, so if you like these make sure to check back soon!  
 <br>  
   ***Note:*** If you'd like to request an icon for a new file-type, make sure to submit your suggestions [**here**](https://github.com/JonSn0w/Atom-FileType-Icons/Issues).  
-  I'll do my best to fulfill any submitted icon requests, but also feel free to create/contribute your own using the provided [Illustrator file](https://github.com/JonSn0w/Atom-FileType-Icons/blob/master/AI/AtomFileIcons.ai).
+  I'll do my best to fulfill any submitted icon requests, but also feel free to create/contribute your own using the provided [Illustrator file](https://github.com/JonSn0w/Atom-FileType-Icons/blob/master/AI/AtomFileIcons.ai).  
 <br>  
 
-______________________________________________________________________________  
+_____________________  
 
 ## Includes:
   * [Coffee](https://github.com/JonSn0w/Atom-FileType-Icons/blob/master/PNG/coffee.png)    
   * [C++](https://github.com/JonSn0w/Atom-FileType-Icons/blob/master/PNG/cpp.png)  
-  * [C#](https://github.com/JonSn0w/Atom-FileType-Icons/blob/master/PNG/csharp.png)  
-  * [CSS](https://github.com/JonSn0w/Atom-FileType-Icons/blob/master/PNG/css.png)  
+  * [C#](https://github.com/JonSn0w/Atom-FileType-Icons/blob/master/PNG/cs.png)  
+  * [CSS](https://github.com/JonSn0w/Atom-FileType-Icons/blob/master/PNG/css.png) 
+  * [EXE](https://github.com/JonSn0w/Atom-FileType-Icons/blob/master/PNG/exe.png) 
   *  [Go](https://github.com/JonSn0w/Atom-FileType-Icons/blob/master/PNG/go.png) 
+  * [Haskell](https://github.com/JonSn0w/Atom-FileType-Icons/blob/master/PNG/hs.png)  
   * [HTML](https://github.com/JonSn0w/Atom-FileType-Icons/blob/master/PNG/html.png)  
   * [Java](https://github.com/JonSn0w/Atom-FileType-Icons/blob/master/PNG/java.png)  
   * [JavaScript](https://github.com/JonSn0w/Atom-FileType-Icons/blob/master/PNG/js.png)  
   * [JSON](https://github.com/JonSn0w/Atom-FileType-Icons/blob/master/PNG/json.png)  
   * [Less](https://github.com/JonSn0w/Atom-FileType-Icons/blob/master/PNG/less.png)  
   * [Lua](https://github.com/JonSn0w/Atom-FileType-Icons/blob/master/PNG/lua.png)  
-  * [MarkDown](https://github.com/JonSn0w/Atom-FileType-Icons/blob/master/PNG/md.png)  
+  * [Markdown](https://github.com/JonSn0w/Atom-FileType-Icons/blob/master/PNG/md.png)  
+  * [Perl](https://github.com/JonSn0w/Atom-FileType-Icons/blob/master/PNG/pl.png)  
   * [Python](https://github.com/JonSn0w/Atom-FileType-Icons/blob/master/PNG/py.png)  
-  * [Ruby](https://github.com/JonSn0w/Atom-FileType-Icons/blob/master/PNG/ruby.png)
+  * [Ruby](https://github.com/JonSn0w/Atom-FileType-Icons/blob/master/PNG/rb.png)
+  * [Rust](https://github.com/JonSn0w/Atom-FileType-Icons/blob/master/PNG/rs.png)
   * [SCSS](https://github.com/JonSn0w/Atom-FileType-Icons/blob/master/PNG/scss.png)  
-  * [Text](https://github.com/JonSn0w/Atom-FileType-Icons/blob/master/PNG/txt.png)  
+  * [Text](https://github.com/JonSn0w/Atom-FileType-Icons/blob/master/PNG/txt.png)
+  * [TypeScript](https://github.com/JonSn0w/Atom-FileType-Icons/blob/master/PNG/ts.png)  
 
 <br>  
-____________________________________________________________________________  
-
-
-
-<!------------------------------- Links ------------------------------------->
-
-[Atom]: https://atom.io
