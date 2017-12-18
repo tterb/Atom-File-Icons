@@ -31,7 +31,7 @@ I'll do my best to fulfill any submitted icon requests, but also feel free to cr
 _____________________  
 
 ## Includes:
-  * [Coffee](https://github.com/JonSn0w/Atom-FileType-Icons/blob/master/PNG/coffee.png)    
+  * [CoffeeScript](https://github.com/JonSn0w/Atom-FileType-Icons/blob/master/PNG/coffee.png)    
   * [C++](https://github.com/JonSn0w/Atom-FileType-Icons/blob/master/PNG/cpp.png)  
   * [C#](https://github.com/JonSn0w/Atom-FileType-Icons/blob/master/PNG/cs.png)  
   * [CSS](https://github.com/JonSn0w/Atom-FileType-Icons/blob/master/PNG/css.png) 
